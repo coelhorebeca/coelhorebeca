@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"><i>Estudante de Programação (2º ano) focada em web design dinâmico. <br>Busco transformar a navegação tradicional em algo mais vívido e interessante, tornando a experiência digital mais fluida e autêntica.</i></p>
+<p align="left"><i>Estudante de Programação (2º ano) focada em web development dinâmico. <br>Busco transformar a navegação tradicional em algo mais vívido e interessante, tornando a experiência digital mais fluida e autêntica.</i></p>
 
 ###
 
