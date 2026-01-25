@@ -31,7 +31,7 @@
 <div align="left">
   <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=black&style=for-the-badge" height="40" alt="blender logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&logoColor=white&style=for-the-badge" height="40" alt="opengl logo"  />
+  <img src="https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge" height="40" alt="opengl logo"  />
 </div>
 
 ###
